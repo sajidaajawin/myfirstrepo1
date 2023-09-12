@@ -5,7 +5,6 @@ about me
 - i love **reading books**
 - so passionate about **Arduino** and its projects
 - i would like to ask u to solve **equation** for me to break the ice _quadratic equation_:
-x = −b ± √(b2 − 4ac) 2a
-  
+  $-b \pm \sqrt{b^2 - 4ac} \over 2a$
 
 

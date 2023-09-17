@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title >table</title>
+    </head>
+    <body>
+        <table border="1">
+            <caption></caption>
+            <thead>
+            <tr>
+            <th rowspan="2">row1-2 col1</th>
+            <th>row1 col2</th>
+             <th>row1 col3</th>
+             <th>row1 col4</th>
+
+            </tr>
+    
+            <tr>
+                <th rowspan="2" colspan="2">row2-3 col2-3</th>
+  
+            <th> row2 col4</th>
+
+            </tr>
+    
+            <tr>
+            <th>row3 col1</th>
+            <th>row3 col4</th>
+
+            </tr>
+
+            <tr>
+                <th>row4 col1</th>
+                <th>row4 col2</th>
+                <th colspan="2">row4 col3-4</th>
+
+
+            </tr>
+    
+
+            </thead>
+            </tbody>
+            </table>
+    </body>
+</html>

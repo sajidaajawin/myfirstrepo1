@@ -1,10 +1,4 @@
-# myfirstrepo
-about me
--------------  
-- im **22 years old**
-- i love **reading books**
-- so passionate about **Arduino** and its projects
-- i would like to ask u to solve **equation** for me to break the ice _quadratic equation_:
-  $-b \pm \sqrt{b^2 - 4ac} \over 2a$
-
-
+# html-task
+the task is about:
+------------
+- writing an **HTML CODE** that consists of **table** **form** **list**
